@@ -1,0 +1,457 @@
+{
+    "title": {
+        "home": "Home | PANACEA",
+        "download": "Download App | PANACEA",
+        "terms": "Terms & Conditions | PANACEA",
+        "privacy": "Privacy & Policy | PANACEA",
+        "notFound": "Not Found | PANACEA"
+    },
+    "header": {
+        "action": "Get the App"
+    },
+    "hero": {
+        "title": "Your Trusted Partner in Health. Locate, Order, and Receive Medications with Ease.",
+        "subtitle": "Discover the closest pharmacies and clinics, manage prescriptions digitally, and enjoy secure, convenient access to healthcare. PANACEA is your all-in-one platform, connecting you with trusted providers for a healthier, easier life.",
+        "cta": {
+            "apple": {
+                "text1": "Download on the",
+                "text2": "App Store"
+            },
+            "playstore": {
+                "text1": "Get it on",
+                "text2": "Google Play"
+            }
+        }
+    },
+    "about": {
+        "title": "Empowering Health Access, Together!",
+        "content": "PANACEA empowers users to access local pharmacies and clinics, making it simpler to find essential medications and manage health with privacy and convenience. With PANACEA, users can locate nearby pharmacies, confirm medication availability, order and pay digitally, and arrange for delivery. The platform also offers appointment booking with nearby clinics. PANACEA creates opportunities for pharmacies and clinics to serve more customers, enhance service quality, and operate seamlessly in today’s digital world.",
+        "cta": "Download PANACEA"
+    },
+    "howItWorksSection": {
+        "section1": {
+            "title": "Get Started with PANACEA – Your Health, Simplified! 🌍📲",
+            "content": [
+                {
+                    "title": "Download the PANACEA App",
+                    "description": "Available on both iOS and Android platforms"
+                },
+                {
+                    "title": "Create an Account",
+                    "description": "Sign up quickly with WhatsApp to get started."
+                },
+                {
+                    "title": "Find Trusted Pharmacies",
+                    "description": "Locate pharmacies with the medications you need or book appointments in just a few taps."
+                },
+                {
+                    "title": "Order & Pay",
+                    "description": "Order medications and pay securely all from the comfort of your phone."
+                },
+                {
+                    "title": "Receive & Recover",
+                    "description": "Have your prescriptions delivered to your doorstep, or pick them up from the pharmacy—no more pharmacy hopping"
+                }
+            ]
+        },
+        "section2": {
+            "title": "Expand Your Reach, Serve More Patients",
+            "content": [
+                {
+                    "title": "Register Your Pharmacy",
+                    "description": "Create your pharmacy profile in minutes and gain access to a wider audience."
+                },
+                {
+                    "title": "List Medications & Special Offers",
+                    "description": "Easily manage and update your inventory."
+                },
+                {
+                    "title": "Receive & Manage Orders",
+                    "description": "Track orders from patients, manage inventory, and keep clients informed on medication availability."
+                },
+                {
+                    "title": "Secure Payment System",
+                    "description": "Accept payments via MOMO with secure transfers, keeping transactions fast and reliable."
+                },
+                {
+                    "title": "Elevate Your Service",
+                    "description": "Use PANACEA’s insights to grow your customer base and improve service delivery."
+                }
+            ]
+        }
+    },
+    "shareExperience": {
+        "users": {
+            "title": "Stories of Impact from Our Community",
+            "content": [
+                {
+                    "names": "Mariam, the Discreet Shopper",
+                    "desc": "Mariam needed regular prescriptions but preferred not to make multiple trips. Now, with PANACEA, she orders everything she needs in one app, knowing her health needs are handled with privacy and care.",
+                    "position": "ICUPA User"
+                },
+                {
+                    "names": "Kofi, the Health-Conscious Professional",
+                    "desc": "With a busy schedule, Kofi found it hard to manage his medications. PANACEA’s delivery service means he can access his prescriptions anytime, and he can book checkups at nearby clinics when needed.",
+                    "position": "ICUPA User"
+                }
+            ]
+        },
+        "business": {
+            "title": "Pharmacy Success Stories",
+            "content": [
+                {
+                    "names": "Unity Pharmacy: Expanding Digital Presence",
+                    "desc": "Unity Pharmacy struggled to attract new clients. With PANACEA, they now serve clients, offering delivery options that increase sales by 40%.",
+                    "position": "Business Owner"
+                },
+                {
+                    "names": "HealthSure Clinic: Reaching New Patients",
+                    "desc": "HealthSure Clinic faced competition from larger facilities. PANACEA allowed them to expand their client base, and their patient loyalty has since grown by 35%.",
+                    "position": "Business Owner"
+                },
+                {
+                    "names": "Prime Medics: Secure, Fast Transactions",
+                    "desc": "Retaining customers was tough for Musanze Grill. ICUPA enabled personalized offers, turning casual visitors into regulars. Customer retention rose by 35%, thanks to targeted discounts and a loyalty program.",
+                    "position": "Business Owner"
+                },
+                {
+                    "names": "Riverview Bistro, Streamlined Cashless Payments",
+                    "desc": "Managing patients onboarding and payments was challenging for Prime Medics. Now, 90% of their transactions are digital with PANACEA, allowing for faster service and secure payment.",
+                    "position": "Business Owner"
+                },
+                {
+                    "names": "TrustMeds: Easy Inventory Updates",
+                    "desc": "Keeping up with inventory was challenging for TrustMeds. With PANACEA’s digital platform, they update listings instantly, allowing clients to see real-time stock availability.",
+                    "position": "Business Owner"
+                },
+                {
+                    "names": "Hope Pharmacy: Staying Ahead with Data",
+                    "desc": "Hope Pharmacy faced peak-time shortages. PANACEA’s analytics helped them track demand patterns, reducing out-of-stock rates by 20%, improving customer satisfaction.",
+                    "position": "Business Owner"
+                }
+            ]
+        }
+    },
+    "services": {
+        "section1": {
+            "title": "Accessible Health, Close to Home 🌍💊",
+            "content": [
+                {
+                    "title": "Reach New Clients",
+                    "description": "List your pharmacy on PANACEA and connect with customers. With delivery and pickup options, expand your reach beyond your location."
+                },
+                {
+                    "title": "Reduce Operational Costs",
+                    "description": "Cut down on cash handling, manual order management, and physical inventory processes, allowing you to focus on customer care and service improvements."
+                },
+                {
+                    "title": "Build Patient Trust",
+                    "description": "Every pharmacy on PANACEA is verified for reliability, giving users confidence in their healthcare journey."
+                },
+                {
+                    "title": "Optimize with Data Insights",
+                    "description": "Understand client demand, streamline your stock, with data insights that keep your business competitive."
+                },
+                {
+                    "title": "Reliable Delivery Options",
+                    "description": "Seamless delivery ensures medications reach customers fresh and on time, promoting consistent client satisfaction."
+                }
+            ]
+        },
+        "section2": {
+            "title": "Shop with Confidence, Health You Can Trust 🌍💙",
+            "content": [
+                {
+                    "title": "Certified Pharmacies Only",
+                    "description": "Each pharmacy on PANACEA is verified for quality and reliability, giving clients confidence in the services they choose"
+                },
+                {
+                    "title": "Transparent Medication Information",
+                    "description": "Detailed information about each medication, including usage instructions and side effects, empowers clients to make informed choices."
+                },
+                {
+                    "title": "Seasonal Health Campaigns",
+                    "description": "Participate in seasonal promotions and discover new products that enhance health and well-being."
+                },
+                {
+                    "title": "All-in-One Health Platform",
+                    "description": "From medications to clinic services, find everything you need in one app—supporting local healthcare providers with every use."
+                }
+            ]
+        }
+    },
+    "banner": {
+        "service": {
+            "content": {
+                "title": "Your Bar Experience, Reimagined!",
+                "description": "Elevate your bar experience with PANACEA! From streamlining operations to creating personalized connections, PANACEA helps you serve smiles and save time. Enjoy features like real-time order tracking, instant payments, and tailored customer insights. Say goodbye to paper menus and hello to more satisfied customers, all while boosting productivity and driving growth. 🍹🚀"
+            }
+        },
+        "testimonials": {
+            "content": {
+                "title": "Real Stories, Real Health Impact – See the PANACEA Difference",
+                "description": "Discover how PANACEA is reshaping healthcare access, connecting customers with reliable pharmacies and clinics. Hear from users who appreciate the convenience, privacy, and reliability PANACEA brings to their healthcare journey, and see how it’s helping pharmacies grow in today’s digital landscape."
+            }
+        }
+    },
+    "cta": {
+        "title": "Ready to Get Started?",
+        "desc": "Available for IOS and Android devices",
+        "download": "Explore Nearby Pharmacies",
+        "order": "Find a Pharmacy Near You"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "desc": "Have questions? We’re here to help!",
+        "cta": "Support"
+    },
+    "footer": {
+        "term": "Terms & Conditions",
+        "privacy": "Privacy & Policy",
+        "apple": "Get on App Store",
+        "playstore": "Get on Playstore"
+    },
+    "privacyPolicy": {
+        "title": "PANACEA Privacy Policy",
+        "lastUpdated": "Last Updated: 5th September 2023",
+        "sections": {
+            "introduction": {
+                "heading": "Introduction",
+                "content": "Welcome to PANACEA. Your privacy and the security of your personal data are of utmost importance to us. This Privacy Policy outlines our practices regarding the collection, use, and protection of your personal information when you interact with the PANACEA mobile application."
+            },
+            "privacyPrinciples": {
+                "heading": "1. Privacy Principles",
+                "content": [
+                    "We are committed to safeguarding your personal data and maintaining transparency in our data handling practices.",
+                    "The information we collect will be used strictly for the purposes outlined in this policy, adhering to the following principles:",
+                    {
+                        "list": [
+                            "Obtaining explicit consent before collecting, using, or sharing your personal data, unless required by law.",
+                            "Clearly communicating the purposes for which your data is collected and used.",
+                            "Limiting the use of your data to the disclosed purposes, unless additional consent is obtained or we are legally obligated to use it differently."
+                        ]
+                    }
+                ]
+            },
+            "dataCollection": {
+                "heading": "2. Data Collection",
+                "content": [
+                    {
+                        "item": "2.1. Upon registering with PANACEA, we may collect personal identifiers such as your name, email, phone number, date of birth, and residential address."
+                    },
+                    {
+                        "item": "2.2. For specific functionalities, we may require financial information, card details, and device-specific data."
+                    },
+                    {
+                        "item": "2.3. We aggregate data from your interactions, including device IDs, cookies, and third-party integrations, to enhance your user experience."
+                    },
+                    {
+                        "item": "2.4. We continuously monitor device interactions, including browser type, OS version, and network information, to ensure consistent service across various platforms."
+                    }
+                ]
+            },
+            "usageOfData": {
+                "heading": "3. Usage of Data",
+                "content": [
+                    {
+                        "item": "3.1. Your data enables us to provide services including:",
+                        "subList": [
+                            "Registration and profile management.",
+                            "Financial transactions.",
+                            "Subscription services.",
+                            "Account management."
+                        ]
+                    },
+
+                    {
+                        "item": "3.2. Expect communications related to service updates, security alerts, and usage instructions through various channels.",
+                        "subList": []
+                    },
+                    {
+                        "item": "3.3. Personalized advertising based on your data may be displayed both within and outside our app.",
+                        "subList": []
+                    },
+                    {
+                        "item": "3.4. We may use your data for promotional and marketing purposes.",
+                        "subList": []
+                    },
+                    {
+                        "item": "3.5. Your data is essential for customer support and resolving issues.",
+                        "subList": []
+                    },
+                    {
+                        "item": "3.6. We use data for security checks, fraud prevention, and compliance with legal obligations.",
+                        "subList": []
+                    }
+                ]
+            },
+            "legalBasis": {
+                "heading": "4. Legal Basis for Data Processing",
+                "content": {
+                    "title": "Data processing is based on:",
+                    "list": [
+                        "Your consent.",
+                        "Contractual necessity.",
+                        "Legal requirements.",
+                        "Our legitimate business interests."
+                    ]
+                }
+            },
+            "dataSecurity": {
+                "heading": "5. Data Security",
+                "content": [
+                    {
+                        "item": "5.1. We employ a comprehensive approach to protect your data from unauthorized access and misuse."
+                    },
+                    {
+                        "item": "5.2. Security measures are integrated into every stage of data handling."
+                    },
+                    {
+                        "item": "5.3. We adhere to standard security protocols for data transmission and storage."
+                    },
+                    {
+                        "item": "5.4. Sensitive data is encrypted, with access limited to authorized personnel."
+                    }
+                ]
+            },
+            "dataSharing": {
+                "heading": "6. Data Sharing",
+                "content": [
+                    {
+                        "item": "6.1. Data may be transferred internationally in compliance with this policy."
+                    },
+                    {
+                        "item": "6.2. Within our organization, data sharing aims to enhance customer experiences."
+                    },
+                    {
+                        "item": "6.3. We maintain strict privacy standards for any shared data."
+                    },
+                    {
+                        "item": "6.4. We do not share data with external parties for marketing purposes without your consent, except as required by law."
+                    }
+                ]
+            },
+            "dataRights": {
+                "heading": "7. Your Data Rights",
+                "content": [
+                    {
+                        "item": "7.1. We retain your data as long as your account is active or as necessary for service provision."
+                    },
+                    {
+                        "item": "7.2. You can access and manage your data through our application. For account deactivation, contact us at info@ikanisa.com."
+                    },
+                    {
+                        "item": "7.3. Certain data may be retained post-account closure to comply with legal and security requirements."
+                    }
+                ]
+            },
+            "protectingMinors": {
+                "heading": "8. Protecting Minors",
+                "content": "We do not knowingly collect data from children under 13 without parental consent, adhering to relevant laws."
+            },
+            "contactAndUpdates": {
+                "heading": "9. Contact and Updates",
+                "content": {
+                    "email": "For inquiries or updates to this policy, please contact us at info@ikanisa.com.",
+                    "note": "Note: Any changes to this policy will be communicated through the application."
+                }
+            }
+        }
+    },
+    "termsAndConditions": {
+        "title": "Terms and Conditions for PANACEA",
+        "sections": {
+            "introduction": {
+                "heading": "1. Introduction",
+                "content": "Welcome to PANACEA, a multi-vendor e-commerce platform. These Terms and Conditions govern your use of the PANACEA mobile application and website, and any related services provided by PANACEA."
+            },
+            "acceptance": {
+                "heading": "2. Acceptance of Terms",
+                "content": "By downloading, browsing, accessing, or using this mobile application, you agree to be bound by these Terms and Conditions. If you disagree with any part of these terms, please do not use our application."
+            },
+            "vendorRegistration": {
+                "heading": "3. Vendor Registration and Obligations",
+                "content": [
+                    "Vendors must register to list their products on PANACEA.",
+                    "Vendors are responsible for ensuring the accuracy, legality, and quality of their listed products.",
+                    "PANACEA reserves the right to remove any product listings that violate these terms or applicable laws."
+                ]
+            },
+            "userAccounts": {
+                "heading": "4. User Accounts",
+                "content": [
+                    "Users must register for an account to make purchases on PANACEA.",
+                    "Account information must be accurate and updated regularly.",
+                    "Users are responsible for maintaining the confidentiality of their account and password."
+                ]
+            },
+            "transactions": {
+                "heading": "5. Transactions",
+                "content": [
+                    "PANACEA facilitates transactions between users and vendors but is not a party to these transactions.",
+                    "Users are responsible for reading the full item listing before making a purchase."
+                ]
+            },
+            "paymentAndFees": {
+                "heading": "6. Payment and Fees",
+                "content": [
+                    "PANACEA may charge transaction or listing fees.",
+                    "Users agree to complete transactions through the payment methods provided on PANACEA."
+                ]
+            },
+            "deliveryAndShipping": {
+                "heading": "7. Delivery and Shipping",
+                "content": [
+                    "Vendors are responsible for shipping their products.",
+                    "PANACEA is not responsible for any shipping issues, including delays or lost items."
+                ]
+            },
+            "returnsAndRefunds": {
+                "heading": "8. Returns and Refunds",
+                "content": [
+                    "The refund and return policy for each product is set by the respective vendor.",
+                    "PANACEA facilitates the return and refund process but is not responsible for vendors' policies."
+                ]
+            },
+            "intellectualProperty": {
+                "heading": "9. Intellectual Property",
+                "content": "All intellectual property rights in the application and its content are owned by PANACEA or its licensors."
+            },
+            "userConduct": {
+                "heading": "10. User Conduct",
+                "content": [
+                    "Users agree not to use the application for any unlawful activity.",
+                    "Users must not engage in any behavior that could harm PANACEA or other users."
+                ]
+            },
+            "disclaimers": {
+                "heading": "11. Disclaimers",
+                "content": "PANACEA provides the application and its services on an 'as is' basis. PANACEA does not guarantee that the application will be free from errors or interruptions."
+            },
+            "limitationOfLiability": {
+                "heading": "12. Limitation of Liability",
+                "content": "PANACEA will not be liable for any indirect, incidental, special, or consequential damages arising from the use of the application."
+            },
+            "indemnification": {
+                "heading": "13. Indemnification",
+                "content": "Users agree to indemnify PANACEA against all liabilities, costs, expenses, damages, and losses arising out of their breach of these Terms and Conditions."
+            },
+            "amendments": {
+                "heading": "14. Amendments",
+                "content": "PANACEA reserves the right to amend these Terms and Conditions at any time."
+            },
+            "governingLaw": {
+                "heading": "15. Governing Law and Jurisdiction",
+                "content": "These Terms and Conditions shall be governed by and construed in accordance with local laws."
+            },
+            "contact": {
+                "heading": "16. Contact Information",
+                "content": "For any queries or support, please contact us at info@ikanisa.com."
+            }
+        }
+    },
+    "modal": {
+        "title": "Download PANACEA",
+        "text": "Scan the QR code below to download the PANACEA app on your mobile device."
+    }
+}

@@ -1,0 +1,455 @@
+{
+    "title": {
+        "home": "Accueil | ICUPA",
+        "download": "Télécharger l'App | ICUPA",
+        "terms": "Conditions d'utilisation | ICUPA",
+        "privacy": "Politique de confidentialité | ICUPA",
+        "notFound": "Page non trouvée | ICUPA"
+    },
+    "header": {
+        "action": "Obtenez l'App"
+    },
+    "hero": {
+        "title": "Votre partenaire de confiance en matière de santé. Localiser, Commander et Recevoir des médicaments en toute simplicité",
+        "subtitle": "Découvrez les pharmacies et les cliniques les plus proches, gérez vos ordonnances numériquement et bénéficiez d'un accès sécurisé et pratique aux soins de santé. PANACEA est votre plateforme tout-en-un, qui vous met en relation avec des prestataires de confiance pour une vie plus saine et plus facile.",
+        "cta": {
+            "apple": {
+                "text1": "Télécharger sur",
+                "text2": "l'App Store"
+            },
+            "playstore": {
+                "text1": "Disponible sur",
+                "text2": "Google Play"
+            }
+        }
+    },
+    "about": {
+        "title": "Renforcer l'accès à la santé, ensemble !",
+        "content": "PANACEA permet aux utilisateurs d'accéder aux pharmacies et cliniques locales, ce qui simplifie la recherche de médicaments essentiels et la gestion de la santé en toute confidentialité et commodité. Avec PANACEA, les utilisateurs peuvent localiser les pharmacies proches, confirmer la disponibilité des médicaments, commander et payer numériquement, et organiser la livraison. La plateforme permet également de prendre rendez-vous avec les cliniques les plus proches. PANACEA offre aux pharmacies et aux cliniques la possibilité de servir davantage de clients, d'améliorer la qualité de leurs services et de fonctionner en toute transparence dans le monde numérique d'aujourd'hui.",
+        "cta": "Téléchargez PANACEA"
+    },
+    "howItWorksSection": {
+        "section1": {
+            "title": "Démarrer avec PANACEA - Votre santé, simplifiée ! 🌍📲",
+            "content": [
+                {
+                    "title": "Télécharger l'application PANACEA",
+                    "description": "Disponible sur les plateformes iOS et Android"
+                },
+                {
+                    "title": "Créez un compte",
+                    "description": "Inscrivez-vous rapidement avec WhatsApp pour commencer."
+                },
+                {
+                    "title": "Trouver des pharmacies de confiance",
+                    "description": "Localisez les pharmacies proposant les médicaments dont vous avez besoin ou prenez rendez-vous en quelques clics."
+                },
+                {
+                    "title": "Commander et payer",
+                    "description": "Commandez des médicaments et payez en toute sécurité depuis votre téléphone."
+                },
+                {
+                    "title": "Recevoir et récupérer",
+                    "description": "Faites livrer vos ordonnances à votre porte ou récupérez-les à la pharmacie - plus besoin de faire le tour des pharmacies."
+                }
+            ]
+        },
+        "section2": {
+            "title": "Élargissez votre champ d'action, servez plus de patients",
+            "content": [
+                {
+                    "title": "Inscrivez votre pharmacie",
+                    "description": "Créez le profil de votre pharmacie en quelques minutes et accédez à un public plus large."
+                },
+                {
+                    "title": "Liste des médicaments et des offres spéciales",
+                    "description": "Gérez et mettez à jour votre inventaire en toute simplicité."
+                },
+                {
+                    "title": "Recevoir et gérer les commandes",
+                    "description": "Suivez les commandes des patients, gérez les stocks et tenez vos clients informés de la disponibilité des médicaments."
+                },
+                {
+                    "title": "Système de paiement sécurisé",
+                    "description": "Acceptez les paiements via MOMO avec des transferts sécurisés, pour des transactions rapides et fiables."
+                },
+                {
+                    "title": "Améliorez votre service",
+                    "description": "Utilisez les informations de PANACEA pour développer votre clientèle et améliorer la prestation de services."
+                }
+            ]
+        }
+    },
+    "shareExperience": {
+        "users": {
+            "title": "Histoires d'impact de notre communauté",
+            "content": [
+                {
+                    "names": "Mariam, l'acheteuse discrète",
+                    "desc": "Mariam avait besoin d'ordonnances régulières mais préférait ne pas avoir à se déplacer plusieurs fois. Désormais, grâce à PANACEA, elle commande tout ce dont elle a besoin dans une seule application, sachant que ses besoins en matière de santé sont traités avec confidentialité et attention.",
+                    "position": ""
+                },
+                {
+                    "names": "Kofi, un professionnel soucieux de sa santé",
+                    "desc": "Avec un emploi du temps chargé, Kofi avait du mal à gérer ses médicaments. Le service de livraison de PANACEA lui permet d'accéder à ses ordonnances à tout moment et de réserver des visites de contrôle dans les cliniques voisines si nécessaire.",
+                    "position": "Utilisateur PANACEA"
+                }
+            ]
+        },
+        "business": {
+            "title": "Histoires de réussite de pharmacies",
+            "content": [
+                {
+                    "names": "Unity Pharmacy : Développer sa présence numérique",
+                    "desc": "Unity Pharmacy avait du mal à attirer de nouveaux clients. Grâce à PANACEA, elle peut désormais servir ses clients en leur proposant des options de livraison qui augmentent les ventes de 40 %.",
+                    "position": ""
+                },
+                {
+                    "names": "HealthSure Clinic : Atteindre de nouveaux patients",
+                    "desc": "HealthSure Clinic a dû faire face à la concurrence d'établissements plus importants. PANACEA lui a permis d'élargir sa base de clientèle, et la fidélité de ses patients a depuis augmenté de 35 %.",
+                    "position": ""
+                },
+                {
+                    "names": "Prime Medics : des transactions sûres et rapides",
+                    "desc": "La gestion de l'inscription des patients et des paiements représentait un défi pour Prime Medics. Désormais, 90 % de leurs transactions sont numériques grâce à PANACEA, ce qui permet un service plus rapide et des paiements sécurisés.",
+                    "position": ""
+                },
+                {
+                    "names": "TrustMeds : Mises à jour faciles des stocks",
+                    "desc": "La gestion des stocks était un défi pour TrustMeds. Grâce à la plateforme numérique de PANACEA, les listes sont mises à jour instantanément, ce qui permet aux clients de connaître la disponibilité des stocks en temps réel.",
+                    "position": ""
+                },
+                {
+                    "names": "Hope Pharmacy : Garder une longueur d'avance grâce aux données",
+                    "desc": "Hope Pharmacy était confrontée à des pénuries aux heures de pointe. Les analyses de PANACEA l'ont aidée à suivre les tendances de la demande, à réduire les ruptures de stock de 20 % et à améliorer la satisfaction des clients.",
+                    "position": ""
+                },
+                {
+                    "names": "Lake View Tavern, Optimisation avec les données",
+                    "desc": "Lake View Tavern avait du mal à gérer le personnel aux heures de pointe. Les analyses d'PANACEA ont fourni des informations sur les habitudes des clients, permettant une meilleure planification du personnel. Cela a réduit les coûts de main-d'œuvre de 10 % et amélioré la satisfaction des clients grâce à un service plus rapide.",
+                    "position": ""
+                }
+            ]
+        }
+    },
+    "services": {
+        "section1": {
+            "title": "Une santé accessible, près de chez soi 🌍💊💊",
+            "content": [
+                {
+                    "title": "Atteindre de nouveaux clients",
+                    "description": "Inscrivez votre pharmacie sur PANACEA et entrez en contact avec des clients. Grâce aux options de livraison et de retrait, élargissez votre portée au-delà de votre emplacement."
+                },
+                {
+                    "title": "Réduire les coûts opérationnels",
+                    "description": "Réduisez la manipulation des espèces, la gestion manuelle des commandes et les processus d'inventaire physique, ce qui vous permet de vous concentrer sur l'assistance à la clientèle et l'amélioration des services."
+                },
+                {
+                    "title": "Renforcer la confiance des patients",
+                    "description": "La fiabilité de chaque pharmacie sur PANACEA est vérifiée, ce qui permet aux utilisateurs d'avoir confiance dans leur parcours de santé."
+                },
+                {
+                    "title": "Optimiser grâce à la connaissance des données",
+                    "description": "Comprenez la demande des clients, rationalisez votre stock, avec des données qui permettent à votre entreprise de rester compétitive"
+                },
+                {
+                    "title": "Options de livraison fiables",
+                    "description": "La livraison sans faille garantit que les médicaments parviennent aux clients frais et à temps, ce qui favorise une satisfaction constante de la clientèle."
+                }
+            ]
+        },
+        "section2": {
+            "title": "Achetez en toute confiance, la santé en toute confiance 🌍💙💙",
+            "content": [
+                {
+                    "title": "Uniquement des pharmacies certifiées",
+                    "description": "Chaque pharmacie sur PANACEA est vérifiée pour la qualité et la fiabilité, donnant aux clients la confiance dans les services qu'ils choisissent."
+                },
+                {
+                    "title": "Informations transparentes sur les médicaments",
+                    "description": "Des informations détaillées sur chaque médicament, y compris les instructions d'utilisation et les effets secondaires, permettent aux clients de faire des choix éclairés."
+                },
+                {
+                    "title": "Campagnes saisonnières sur la santé",
+                    "description": "Participez aux promotions saisonnières et découvrez de nouveaux produits qui améliorent la santé et le bien-être."
+                },
+                {
+                    "title": "Plate-forme de santé tout-en-un",
+                    "description": "Des médicaments aux services cliniques, trouvez tout ce dont vous avez besoin dans une seule application - soutenant les prestataires de soins de santé locaux à chaque utilisation"
+                }
+            ]
+        }
+    },
+    "banner": {
+        "service": {
+            "content": {
+                "title": "Votre expérience au bar, réinventée !",
+                "description": "Élevez votre expérience au bar avec PANACEA ! De l'optimisation des opérations à la création de connexions personnalisées, PANACEA vous aide à servir des sourires et à gagner du temps. Profitez de fonctionnalités comme le suivi des commandes en temps réel, les paiements instantanés et des informations client personnalisées. Dites adieu aux menus en papier et bonjour à des clients plus satisfaits, tout en augmentant la productivité et en stimulant la croissance. 🍹🚀"
+            }
+        },
+        "testimonials": {
+            "content": {
+                "title": "Histoires vraies, impact réel sur la santé - Découvrez la différence PANACEA",
+                "description": "Découvrez comment PANACEA redéfinit l'accès aux soins de santé en mettant les clients en contact avec des pharmacies et des cliniques fiables. Écoutez les témoignages d'utilisateurs qui apprécient la commodité, la confidentialité et la fiabilité que PANACEA apporte à leur parcours de santé, et voyez comment il aide les pharmacies à se développer dans le paysage numérique d'aujourd'hui."
+            }
+        }
+    },
+    "cta": {
+        "title": "Prêt à commencer ?",
+        "desc": "Disponible pour les appareils iOS et Android",
+        "download": "Explorez les pharmacies à proximité",
+        "order": "Trouvez une pharmacie près de chez vous"
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "desc": "Des questions ? Nous sommes là pour vous aider !",
+        "cta": "Support"
+    },
+    "footer": {
+        "term": "Termes & Conditions",
+        "privacy": "Confidentialité & Politique",
+        "apple": "Disponible sur l'App Store",
+        "playstore": "Disponible sur le Playstore"
+    },
+    "privacyPolicy": {
+        "title": "Politique de confidentialité de PANACEA",
+        "lastUpdated": "Dernière mise à jour : 5 septembre 2023",
+        "sections": {
+            "introduction": {
+                "heading": "Introduction",
+                "content": "Bienvenue chez PANACEA. Votre vie privée et la sécurité de vos données personnelles sont d'une importance capitale pour nous. Cette politique de confidentialité décrit nos pratiques concernant la collecte, l'utilisation et la protection de vos informations personnelles lorsque vous interagissez avec l'application mobile PANACEA."
+            },
+            "privacyPrinciples": {
+                "heading": "1. Principes de confidentialité",
+                "content": [
+                    "Nous nous engageons à protéger vos données personnelles et à maintenir la transparence dans nos pratiques de gestion des données.",
+                    "Les informations que nous collectons seront utilisées strictement aux fins décrites dans cette politique, en respectant les principes suivants :",
+                    {
+                        "list": [
+                            "Obtenir un consentement explicite avant de collecter, d'utiliser ou de partager vos données personnelles, sauf si la loi l'exige.",
+                            "Communiquer clairement les objectifs pour lesquels vos données sont collectées et utilisées.",
+                            "Limiter l'utilisation de vos données aux objectifs divulgués, sauf si un consentement supplémentaire est obtenu ou si nous sommes légalement obligés de les utiliser différemment."
+                        ]
+                    }
+                ]
+            },
+            "dataCollection": {
+                "heading": "2. Collecte de données",
+                "content": [
+                    {
+                        "item": "2.1. Lors de votre inscription sur PANACEA, nous pouvons collecter des identifiants personnels tels que votre nom, votre adresse email, votre numéro de téléphone, votre date de naissance et votre adresse résidentielle."
+                    },
+                    {
+                        "item": "2.2. Pour certaines fonctionnalités spécifiques, nous pouvons avoir besoin d'informations financières, de détails de carte et de données spécifiques à l'appareil."
+                    },
+                    {
+                        "item": "2.3. Nous agrégeons les données de vos interactions, y compris les identifiants de dispositifs, les cookies et les intégrations tierces, pour améliorer votre expérience utilisateur."
+                    },
+                    {
+                        "item": "2.4. Nous surveillons en continu les interactions avec l'appareil, y compris le type de navigateur, la version du système d'exploitation et les informations réseau, pour assurer un service cohérent sur diverses plateformes."
+                    }
+                ]
+            },
+            "usageOfData": {
+                "heading": "3. Utilisation des données",
+                "content": [
+                    {
+                        "item": "3.1. Vos données nous permettent de fournir des services tels que :",
+                        "subList": [
+                            "L'inscription et la gestion de profil.",
+                            "Les transactions financières.",
+                            "Les services d'abonnement.",
+                            "La gestion de compte."
+                        ]
+                    },
+                    {
+                        "item": "3.2. Vous recevrez des communications relatives aux mises à jour de service, aux alertes de sécurité et aux instructions d'utilisation via divers canaux.",
+                        "subList": []
+                    },
+                    {
+                        "item": "3.3. Des publicités personnalisées basées sur vos données peuvent être affichées dans et hors de notre application.",
+                        "subList": []
+                    },
+                    {
+                        "item": "3.4. Nous pouvons utiliser vos données à des fins de promotion et de marketing.",
+                        "subList": []
+                    },
+                    {
+                        "item": "3.5. Vos données sont essentielles pour le support client et la résolution des problèmes.",
+                        "subList": []
+                    },
+                    {
+                        "item": "3.6. Nous utilisons les données pour des vérifications de sécurité, la prévention de la fraude et le respect des obligations légales."
+                    }
+                ]
+            },
+            "legalBasis": {
+                "heading": "4. Base légale pour le traitement des données",
+                "content": {
+                    "title": "Le traitement des données est basé sur :",
+                    "list": [
+                        "Votre consentement.",
+                        "La nécessité contractuelle.",
+                        "Les obligations légales.",
+                        "Nos intérêts commerciaux légitimes."
+                    ]
+                }
+            },
+            "dataSecurity": {
+                "heading": "5. Sécurité des données",
+                "content": [
+                    {
+                        "item": "5.1. Nous employons une approche globale pour protéger vos données contre tout accès non autorisé et abus."
+                    },
+                    {
+                        "item": "5.2. Les mesures de sécurité sont intégrées à chaque étape du traitement des données."
+                    },
+                    {
+                        "item": "5.3. Nous respectons les protocoles de sécurité standards pour la transmission et le stockage des données."
+                    },
+                    {
+                        "item": "5.4. Les données sensibles sont chiffrées, avec un accès limité au personnel autorisé."
+                    }
+                ]
+            },
+            "dataSharing": {
+                "heading": "6. Partage des données",
+                "content": [
+                    {
+                        "item": "6.1. Les données peuvent être transférées à l'international conformément à cette politique."
+                    },
+                    {
+                        "item": "6.2. Au sein de notre organisation, le partage des données vise à améliorer l'expérience client."
+                    },
+                    {
+                        "item": "6.3. Nous maintenons des standards stricts de confidentialité pour toutes les données partagées."
+                    },
+                    {
+                        "item": "6.4. Nous ne partageons pas les données avec des tiers à des fins marketing sans votre consentement, sauf si la loi l'exige."
+                    }
+                ]
+            },
+            "dataRights": {
+                "heading": "7. Vos droits relatifs aux données",
+                "content": [
+                    {
+                        "item": "7.1. Nous conservons vos données tant que votre compte est actif ou aussi longtemps que nécessaire pour la prestation de services."
+                    },
+                    {
+                        "item": "7.2. Vous pouvez accéder et gérer vos données via notre application. Pour la désactivation du compte, contactez-nous à info@ikanisa.com."
+                    },
+                    {
+                        "item": "7.3. Certaines données peuvent être conservées après la clôture du compte pour respecter les exigences légales et de sécurité."
+                    }
+                ]
+            },
+            "protectingMinors": {
+                "heading": "8. Protection des mineurs",
+                "content": "Nous ne collectons pas sciemment des données auprès des enfants de moins de 13 ans sans le consentement parental, en conformité avec les lois en vigueur."
+            },
+            "contactAndUpdates": {
+                "heading": "9. Contact et mises à jour",
+                "content": {
+                    "email": "Pour toute question ou mise à jour de cette politique, veuillez nous contacter à info@ikanisa.com.",
+                    "note": "Remarque : Toute modification de cette politique sera communiquée via l'application."
+                }
+            }
+        }
+    },
+    "termsAndConditions": {
+        "title": "Conditions Générales d'Utilisation de PANACEA",
+        "sections": {
+            "introduction": {
+                "heading": "1. Introduction",
+                "content": "Bienvenue sur PANACEA, une plateforme e-commerce multi-vendeurs. Ces Conditions Générales d'Utilisation régissent votre utilisation de l'application mobile et du site web d'PANACEA, ainsi que des services associés fournis par PANACEA."
+            },
+            "acceptance": {
+                "heading": "2. Acceptation des Conditions",
+                "content": "En téléchargeant, parcourant, accédant ou utilisant cette application mobile, vous acceptez d'être lié par ces Conditions Générales d'Utilisation. Si vous n'êtes pas d'accord avec une partie de ces conditions, veuillez ne pas utiliser notre application."
+            },
+            "vendorRegistration": {
+                "heading": "3. Inscription des Vendeurs et Obligations",
+                "content": [
+                    "Les vendeurs doivent s'inscrire pour lister leurs produits sur PANACEA.",
+                    "Les vendeurs sont responsables de l'exactitude, de la légalité et de la qualité des produits qu'ils listent.",
+                    "PANACEA se réserve le droit de supprimer toute annonce de produit qui enfreint ces conditions ou les lois applicables."
+                ]
+            },
+            "userAccounts": {
+                "heading": "4. Comptes Utilisateurs",
+                "content": [
+                    "Les utilisateurs doivent créer un compte pour effectuer des achats sur PANACEA.",
+                    "Les informations du compte doivent être exactes et mises à jour régulièrement.",
+                    "Les utilisateurs sont responsables de la confidentialité de leur compte et de leur mot de passe."
+                ]
+            },
+            "transactions": {
+                "heading": "5. Transactions",
+                "content": [
+                    "PANACEA facilite les transactions entre utilisateurs et vendeurs, mais n'est pas partie à ces transactions.",
+                    "Les utilisateurs sont responsables de lire l'intégralité de l'annonce avant de procéder à un achat."
+                ]
+            },
+            "paymentAndFees": {
+                "heading": "6. Paiements et Frais",
+                "content": [
+                    "PANACEA peut facturer des frais de transaction ou d'annonce.",
+                    "Les utilisateurs s'engagent à effectuer les transactions via les méthodes de paiement fournies sur PANACEA."
+                ]
+            },
+            "deliveryAndShipping": {
+                "heading": "7. Livraison et Expédition",
+                "content": [
+                    "Les vendeurs sont responsables de l'expédition de leurs produits.",
+                    "PANACEA n'est pas responsable des problèmes d'expédition, y compris les retards ou les articles perdus."
+                ]
+            },
+            "returnsAndRefunds": {
+                "heading": "8. Retours et Remboursements",
+                "content": [
+                    "La politique de retour et de remboursement de chaque produit est définie par le vendeur concerné.",
+                    "PANACEA facilite le processus de retour et de remboursement mais n'est pas responsable des politiques des vendeurs."
+                ]
+            },
+            "intellectualProperty": {
+                "heading": "9. Propriété Intellectuelle",
+                "content": "Tous les droits de propriété intellectuelle relatifs à l'application et à son contenu sont détenus par PANACEA ou ses concédants."
+            },
+            "userConduct": {
+                "heading": "10. Conduite de l'Utilisateur",
+                "content": [
+                    "Les utilisateurs s'engagent à ne pas utiliser l'application pour toute activité illégale.",
+                    "Les utilisateurs ne doivent pas adopter de comportement susceptible de nuire à PANACEA ou aux autres utilisateurs."
+                ]
+            },
+            "disclaimers": {
+                "heading": "11. Déclarations de Non-Responsabilité",
+                "content": "PANACEA fournit l'application et ses services « en l'état ». PANACEA ne garantit pas que l'application sera exempte d'erreurs ou d'interruptions."
+            },
+            "limitationOfLiability": {
+                "heading": "12. Limitation de Responsabilité",
+                "content": "PANACEA ne sera pas responsable des dommages indirects, accessoires, spéciaux ou consécutifs découlant de l'utilisation de l'application."
+            },
+            "indemnification": {
+                "heading": "13. Indemnisation",
+                "content": "Les utilisateurs s'engagent à indemniser PANACEA contre toute responsabilité, coût, dépense, dommage et perte résultant de leur violation des présentes Conditions Générales d'Utilisation."
+            },
+            "amendments": {
+                "heading": "14. Modifications",
+                "content": "PANACEA se réserve le droit de modifier ces Conditions Générales d'Utilisation à tout moment."
+            },
+            "governingLaw": {
+                "heading": "15. Droit Applicable et Juridiction",
+                "content": "Ces Conditions Générales d'Utilisation seront régies et interprétées conformément aux lois locales."
+            },
+            "contact": {
+                "heading": "16. Coordonnées de Contact",
+                "content": "Pour toute question ou assistance, veuillez nous contacter à l'adresse suivante : info@ikanisa.com."
+            }
+        }
+    },
+    "modal": {
+        "title": "Télécharger PANACEA",
+        "text": "Scannez le code QR ci-dessous pour télécharger l'application PANACEA sur votre appareil mobile."
+    }
+}
