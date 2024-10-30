@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { AppleIcon } from "../components/icons/AppIcon";
 // import GooglePlayButton from "../components/buttons/GooglePlayButton";
 import QrCodeModal from "../components/modal/QrCodeModal";
-import { illustractionApp, illustractionApp1 } from "../assets";
+// import { illustractionApp, illustractionApp1 } from "../assets";
 import { PlayStoreIcon } from "../components/icons/GooglePlayIcon";
 import { useTranslation } from "react-i18next";
 
@@ -59,26 +59,26 @@ function Actions() {
             <div className='w-full min-h-[300px] bg-primary lg:rounded-lg rounded-b-lg grid grid-cols-1 lg:grid-cols-2 justify-items-center'>
                 <div className='min-h-[300px] py-14 px-8 bg-primary lg:px-10 lg:py-8 flex-col lg:flex-row flex gap-4'>
                     <motion.div
-                        className='max-w-[15rem] h-full min-h-[300px]   lg:block hidden overflow-hidden my-auto'
+                        className='max-w-[15rem] h-full min-h-[300px] bg-gray-200 rounded-lg  lg:block hidden overflow-hidden my-auto'
                         variants={imageVariants}
                     >
-                        <img
+                        {/* <img
                             src={illustractionApp}
                             alt='App preview'
                             loading='lazy'
                             className='w-full h-full object-cover'
-                        />
+                        /> */}
                     </motion.div>
                     <motion.div
-                        className='max-w-[15rem] overflow-hidden my-auto'
+                        className='max-w-[15rem] bg-gray-200 rounded-lg overflow-hidden my-auto'
                         variants={imageVariants}
                     >
-                        <img
+                        {/* <img
                             src={illustractionApp1}
                             alt='App preview1'
                             loading='lazy'
                             className='w-full h-full object-cover'
-                        />
+                        /> */}
                     </motion.div>
                 </div>
                 <motion.div

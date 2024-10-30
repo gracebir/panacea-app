@@ -3,7 +3,7 @@
 import ServiceSection from "../components/ServiceSection";
 import Heading from "../components/Heading";
 import { useInView } from "react-intersection-observer";
-import { whyChooseImage } from "../assets";
+// import { whyChooseImage } from "../assets";
 
 const Service = () => {
     const [ref, inView] = useInView({
@@ -47,7 +47,7 @@ const Service = () => {
                         description: `Check-in at your favorite spots, make reservations in advance, and guarantee your spot even during peak hours.`,
                     },
                 ]}
-                imageUrl={whyChooseImage}
+                imageUrl={"whyChooseImage"}
                 imageAlt='Delivery person with Bolt Food bag'
                 imageOnRight={true}
             />
@@ -87,7 +87,7 @@ const Service = () => {
                             "Reward loyal customers and encourage repeat visits by offering promotions and loyalty points directly through the app.",
                     },
                 ]}
-                imageUrl={whyChooseImage}
+                imageUrl={"whyChooseImage"}
                 imageAlt='Person using Bolt Food app on smartphone'
                 imageOnRight={false}
             />

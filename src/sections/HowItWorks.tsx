@@ -1,6 +1,6 @@
 /** @format */
 import { TFunction } from "i18next";
-import { work1, work2 } from "../assets";
+import { howWork1, howWork2 } from "../assets";
 import ServiceSection, { BulletPoint } from "../components/ServiceSection";
 import { howItWorksSection } from "../utils/constant";
 
@@ -14,7 +14,7 @@ function HowItWorks({ t }: { t?: TFunction<"global", undefined> }) {
                         returnObjects: true,
                     }) as BulletPoint[]
                 }
-                imageUrl={work1}
+                imageUrl={howWork1}
                 imageAlt={howItWorksSection.section1.title}
                 imageOnRight={true}
             />
@@ -25,7 +25,7 @@ function HowItWorks({ t }: { t?: TFunction<"global", undefined> }) {
                         returnObjects: true,
                     }) as BulletPoint[]
                 }
-                imageUrl={work2}
+                imageUrl={howWork2}
                 imageAlt={howItWorksSection.section2.title}
                 imageOnRight={false}
                 asActionButton={true}

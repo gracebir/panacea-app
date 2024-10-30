@@ -1,7 +1,7 @@
 /** @format */
 
 import { useTranslation } from "react-i18next";
-import { action1 } from "../assets";
+
 import ButtonAction from "../components/ButtonAction";
 import { AppleIcon } from "../components/icons/AppIcon";
 import { PlayStoreIcon } from "../components/icons/GooglePlayIcon";
@@ -11,8 +11,8 @@ const CallToAction = () => {
     return (
         <div className='w-full min-h-[600px] rounded-lg bg-primary grid grid-cols-1 lg:grid-cols-2 lg:justify-items-start justify-items-center'>
             <div className='flex items-center py-6 lg:py-4 w-full'>
-                <div className='max-w-[240px] h-[500px] mx-auto w-full'>
-                    <img className='w-full h-full' src={action1} alt='' />
+                <div className='max-w-[240px] h-[500px] mx-auto bg-gray-200 rounded-lg w-full'>
+                    {/* <img className='w-full h-full' src={action1} alt='' /> */}
                 </div>
             </div>
 

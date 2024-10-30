@@ -3,8 +3,9 @@
 import { useInView } from "react-intersection-observer";
 
 import ServiceSection, { BulletPoint } from "../components/ServiceSection";
-import { services } from "../utils/constant";
 import { TFunction } from "i18next";
+import { happy, happy1 } from "../assets";
+import { services } from "../utils/constant";
 
 function WhyToChoose({ t }: { t?: TFunction<"global", undefined> }) {
     const [ref] = useInView({
@@ -20,7 +21,7 @@ function WhyToChoose({ t }: { t?: TFunction<"global", undefined> }) {
                         returnObjects: true,
                     }) as BulletPoint[]
                 }
-                imageUrl={services.section1.imageUrl}
+                imageUrl={happy1}
                 imageAlt={"services.section1.title"}
                 isImageVertical={true}
                 imageOnRight={true}
@@ -32,7 +33,7 @@ function WhyToChoose({ t }: { t?: TFunction<"global", undefined> }) {
                         returnObjects: true,
                     }) as BulletPoint[]
                 }
-                imageUrl={services.section2.imageUrl}
+                imageUrl={happy}
                 imageAlt={services.section2.title}
                 isImageVertical={true}
                 imageOnRight={false}

@@ -1,5 +1,5 @@
 /** @format */
-import { slide1, slideMob1 } from "../assets";
+import { hero, heroMob } from "../assets";
 import { motion } from "framer-motion";
 import AppleButton from "../components/buttons/AppleButton";
 import GooglePlayButton from "../components/buttons/GooglePlayButton";
@@ -13,12 +13,12 @@ const Hero = () => {
             <div className='absolute w-full h-full right-0 top-0 bottom-0 inset-0'>
                 <img
                     className='block lg:hidden w-full h-full object-cover'
-                    src={slideMob1}
+                    src={heroMob}
                     loading='lazy'
                     alt='banner mob'
                 />
                 <img
-                    src={slide1}
+                    src={hero}
                     className='hidden lg:block w-full h-full object-cover'
                     loading='lazy'
                     alt='hero desktop'
