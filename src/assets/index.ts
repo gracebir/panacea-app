@@ -1,61 +1,38 @@
 /** @format */
 
-import banner from "./banner-desktop.png";
-import bannerMob from "./banner-mobile.png";
-import logo from "./icupa-logo.png";
-import illustractionApp from "./action-logo.png";
-import aboutImage from "./site/about.png";
-import illustractionApp1 from "./mobile.png";
-import whyChooseImage from "./site/whychoose.png";
-import work1 from "./site/customer.png";
-import work2 from "./site/business.png";
-import action1 from "./action-1.jpeg";
-import whyChooseImage1 from "./services/1.png";
-import notfound from './notfound.svg'
+import hero from "./banner/hero.png";
+import heroMob from "./banner/hero-mob.png";
 
-import slide1 from "./banner/banner.jpg";
-import slide2 from "./hero/desktop/2.png";
-import slide3 from "./hero/desktop/3.png";
-import slide4 from "./hero/desktop/4.png";
+import about from "./about/about.png";
 
-//testimonials
+import banner from "./banner-1.png";
+import bannerMob from "./banner-2.png";
+import banner2 from "./banner-3.png";
+import banner2Mob from "./banner-4.png";
 
-import testimonialUser from "./testimonials/1.png";
-import testimonialBusiness from "./testimonials/2.png";
+import howWork1 from "./how.png";
+import howWork2 from "./how2.png";
 
-// slide mob
-import slideMob1 from "./hero/mobile/1.png";
-import slideMob2 from "./hero/mobile/1.1.png";
-import slideMob3 from "./hero/mobile/3.png";
-import slideMob4 from "./hero/mobile/12.png";
+import happy from "./whychoose.png";
+import happy1 from "./whychoose1.png";
 
-// banner separator
-import banner1 from "./banner/1.jpg";
-import banner2 from "./banner/2.jpg";
+import testy1 from "./testy1.png";
+import testy from "./testy.png";
+import notfound from "./notfound.svg";
 
 export {
+    hero,
+    heroMob,
+    about,
     banner,
-    bannerMob,
-    logo,
-    illustractionApp,
-    illustractionApp1,
-    aboutImage,
-    slide1,
-    slide2,
-    slide3,
-    slide4,
-    slideMob1,
-    slideMob2,
-    slideMob3,
-    slideMob4,
-    whyChooseImage,
-    whyChooseImage1,
-    action1,
-    work1,
-    work2,
-    testimonialBusiness,
-    testimonialUser,
-    banner1,
+    banner2Mob,
     banner2,
-    notfound
+    bannerMob,
+    howWork1,
+    howWork2,
+    happy,
+    happy1,
+    testy1,
+    testy,
+    notfound,
 };
