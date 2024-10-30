@@ -1,21 +1,19 @@
 /** @format */
 
 import {
-    aboutImage,
-    banner1,
+    about as aboutImage,
+    banner,
+    bannerMob,
     banner2,
-    slideMob2,
-    slideMob3,
-    testimonialBusiness,
-    testimonialUser,
-    whyChooseImage,
-    whyChooseImage1,
+    banner2Mob,
+    testy1,
+    testy,
 } from "../assets";
 
 export const shareExperience = {
     users: {
         title: "Cheers to Happy Customers: Real Stories of ICUPA Magic",
-        imageUrl: testimonialUser,
+        imageUrl: testy,
         content: [
             {
                 names: "John, the Weekend Warrior",
@@ -46,7 +44,7 @@ export const shareExperience = {
     },
     business: {
         title: "Bars That Raised the Bar: Success Stories with ICUPA",
-        imageUrl: testimonialBusiness,
+        imageUrl: testy1,
         content: [
             {
                 names: "Kwetu Bar, Boosting Efficiency & Sales",
@@ -157,7 +155,7 @@ export const howItWorksSection = {
 export const services = {
     section1: {
         title: "Serve Smiles, Save Miles, More Happy Customers! 😊🍹",
-        imageUrl: whyChooseImage,
+        imageUrl: "whyChooseImage",
         content: [
             {
                 title: "Operational Efficiency",
@@ -198,7 +196,7 @@ export const services = {
     },
     section2: {
         title: "Instant Orders, Easy Payments, Maximum Fun! 🎉🍸",
-        imageUrl: whyChooseImage1,
+        imageUrl: "whyChooseImage1",
         content: [
             {
                 title: "Convenience",
@@ -237,8 +235,8 @@ export const services = {
 export const bannerSeparator = {
     service: {
         imageUrls: {
-            desktop: banner2,
-            mobile: slideMob2,
+            desktop: banner,
+            mobile: bannerMob,
         },
         content: {
             title: `Your Bar Experience, Reimagined!`,
@@ -253,8 +251,8 @@ all while boosting productivity and driving growth. 🍹🚀`,
     },
     testimonials: {
         imageUrls: {
-            desktop: banner1,
-            mobile: slideMob3,
+            desktop: banner2,
+            mobile: banner2Mob,
         },
         content: {
             title: `Real Stories, Real Experiences that Show the Difference`,
