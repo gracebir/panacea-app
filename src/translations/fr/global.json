@@ -1,17 +1,17 @@
 {
     "title": {
-        "home": "Accueil | ICUPA",
-        "download": "Télécharger l'App | ICUPA",
-        "terms": "Conditions d'utilisation | ICUPA",
-        "privacy": "Politique de confidentialité | ICUPA",
-        "notFound": "Page non trouvée | ICUPA"
+        "home": "Accueil | PANACEAN",
+        "download": "Télécharger l'App | PANACEAN",
+        "terms": "Conditions d'utilisation | PANACEAN",
+        "privacy": "Politique de confidentialité | PANACEAN",
+        "notFound": "Page non trouvée | PANACEAN"
     },
     "header": {
         "action": "Obtenez l'App"
     },
     "hero": {
         "title": "Votre partenaire de confiance en matière de santé. Localiser, Commander et Recevoir des médicaments en toute simplicité",
-        "subtitle": "Découvrez les pharmacies et les cliniques les plus proches, gérez vos ordonnances numériquement et bénéficiez d'un accès sécurisé et pratique aux soins de santé. PANACEA est votre plateforme tout-en-un, qui vous met en relation avec des prestataires de confiance pour une vie plus saine et plus facile.",
+        "subtitle": "Découvrez les pharmacies et les cliniques les plus proches, gérez vos ordonnances numériquement et bénéficiez d'un accès sécurisé et pratique aux soins de santé. PANACEAN est votre plateforme tout-en-un, qui vous met en relation avec des prestataires de confiance pour une vie plus saine et plus facile.",
         "cta": {
             "apple": {
                 "text1": "Télécharger sur",
@@ -25,15 +25,15 @@
     },
     "about": {
         "title": "Renforcer l'accès à la santé, ensemble !",
-        "content": "PANACEA permet aux utilisateurs d'accéder aux pharmacies et cliniques locales, ce qui simplifie la recherche de médicaments essentiels et la gestion de la santé en toute confidentialité et commodité. Avec PANACEA, les utilisateurs peuvent localiser les pharmacies proches, confirmer la disponibilité des médicaments, commander et payer numériquement, et organiser la livraison. La plateforme permet également de prendre rendez-vous avec les cliniques les plus proches. PANACEA offre aux pharmacies et aux cliniques la possibilité de servir davantage de clients, d'améliorer la qualité de leurs services et de fonctionner en toute transparence dans le monde numérique d'aujourd'hui.",
-        "cta": "Téléchargez PANACEA"
+        "content": "PANACEAN permet aux utilisateurs d'accéder aux pharmacies et cliniques locales, ce qui simplifie la recherche de médicaments essentiels et la gestion de la santé en toute confidentialité et commodité. Avec PANACEAN, les utilisateurs peuvent localiser les pharmacies proches, confirmer la disponibilité des médicaments, commander et payer numériquement, et organiser la livraison. La plateforme permet également de prendre rendez-vous avec les cliniques les plus proches. PANACEAN offre aux pharmacies et aux cliniques la possibilité de servir davantage de clients, d'améliorer la qualité de leurs services et de fonctionner en toute transparence dans le monde numérique d'aujourd'hui.",
+        "cta": "Téléchargez PANACEAN"
     },
     "howItWorksSection": {
         "section1": {
-            "title": "Démarrer avec PANACEA - Votre santé, simplifiée ! 🌍📲",
+            "title": "Démarrer avec PANACEAN - Votre santé, simplifiée ! 🌍📲",
             "content": [
                 {
-                    "title": "Télécharger l'application PANACEA",
+                    "title": "Télécharger l'application PANACEAN",
                     "description": "Disponible sur les plateformes iOS et Android"
                 },
                 {
@@ -75,7 +75,7 @@
                 },
                 {
                     "title": "Améliorez votre service",
-                    "description": "Utilisez les informations de PANACEA pour développer votre clientèle et améliorer la prestation de services."
+                    "description": "Utilisez les informations de PANACEAN pour développer votre clientèle et améliorer la prestation de services."
                 }
             ]
         }
@@ -86,13 +86,13 @@
             "content": [
                 {
                     "names": "Mariam, l'acheteuse discrète",
-                    "desc": "Mariam avait besoin d'ordonnances régulières mais préférait ne pas avoir à se déplacer plusieurs fois. Désormais, grâce à PANACEA, elle commande tout ce dont elle a besoin dans une seule application, sachant que ses besoins en matière de santé sont traités avec confidentialité et attention.",
+                    "desc": "Mariam avait besoin d'ordonnances régulières mais préférait ne pas avoir à se déplacer plusieurs fois. Désormais, grâce à PANACEAN, elle commande tout ce dont elle a besoin dans une seule application, sachant que ses besoins en matière de santé sont traités avec confidentialité et attention.",
                     "position": ""
                 },
                 {
                     "names": "Kofi, un professionnel soucieux de sa santé",
-                    "desc": "Avec un emploi du temps chargé, Kofi avait du mal à gérer ses médicaments. Le service de livraison de PANACEA lui permet d'accéder à ses ordonnances à tout moment et de réserver des visites de contrôle dans les cliniques voisines si nécessaire.",
-                    "position": "Utilisateur PANACEA"
+                    "desc": "Avec un emploi du temps chargé, Kofi avait du mal à gérer ses médicaments. Le service de livraison de PANACEAN lui permet d'accéder à ses ordonnances à tout moment et de réserver des visites de contrôle dans les cliniques voisines si nécessaire.",
+                    "position": "Utilisateur PANACEAN"
                 }
             ]
         },
@@ -101,32 +101,32 @@
             "content": [
                 {
                     "names": "Unity Pharmacy : Développer sa présence numérique",
-                    "desc": "Unity Pharmacy avait du mal à attirer de nouveaux clients. Grâce à PANACEA, elle peut désormais servir ses clients en leur proposant des options de livraison qui augmentent les ventes de 40 %.",
+                    "desc": "Unity Pharmacy avait du mal à attirer de nouveaux clients. Grâce à PANACEAN, elle peut désormais servir ses clients en leur proposant des options de livraison qui augmentent les ventes de 40 %.",
                     "position": ""
                 },
                 {
                     "names": "HealthSure Clinic : Atteindre de nouveaux patients",
-                    "desc": "HealthSure Clinic a dû faire face à la concurrence d'établissements plus importants. PANACEA lui a permis d'élargir sa base de clientèle, et la fidélité de ses patients a depuis augmenté de 35 %.",
+                    "desc": "HealthSure Clinic a dû faire face à la concurrence d'établissements plus importants. PANACEAN lui a permis d'élargir sa base de clientèle, et la fidélité de ses patients a depuis augmenté de 35 %.",
                     "position": ""
                 },
                 {
                     "names": "Prime Medics : des transactions sûres et rapides",
-                    "desc": "La gestion de l'inscription des patients et des paiements représentait un défi pour Prime Medics. Désormais, 90 % de leurs transactions sont numériques grâce à PANACEA, ce qui permet un service plus rapide et des paiements sécurisés.",
+                    "desc": "La gestion de l'inscription des patients et des paiements représentait un défi pour Prime Medics. Désormais, 90 % de leurs transactions sont numériques grâce à PANACEAN, ce qui permet un service plus rapide et des paiements sécurisés.",
                     "position": ""
                 },
                 {
                     "names": "TrustMeds : Mises à jour faciles des stocks",
-                    "desc": "La gestion des stocks était un défi pour TrustMeds. Grâce à la plateforme numérique de PANACEA, les listes sont mises à jour instantanément, ce qui permet aux clients de connaître la disponibilité des stocks en temps réel.",
+                    "desc": "La gestion des stocks était un défi pour TrustMeds. Grâce à la plateforme numérique de PANACEAN, les listes sont mises à jour instantanément, ce qui permet aux clients de connaître la disponibilité des stocks en temps réel.",
                     "position": ""
                 },
                 {
                     "names": "Hope Pharmacy : Garder une longueur d'avance grâce aux données",
-                    "desc": "Hope Pharmacy était confrontée à des pénuries aux heures de pointe. Les analyses de PANACEA l'ont aidée à suivre les tendances de la demande, à réduire les ruptures de stock de 20 % et à améliorer la satisfaction des clients.",
+                    "desc": "Hope Pharmacy était confrontée à des pénuries aux heures de pointe. Les analyses de PANACEAN l'ont aidée à suivre les tendances de la demande, à réduire les ruptures de stock de 20 % et à améliorer la satisfaction des clients.",
                     "position": ""
                 },
                 {
                     "names": "Lake View Tavern, Optimisation avec les données",
-                    "desc": "Lake View Tavern avait du mal à gérer le personnel aux heures de pointe. Les analyses d'PANACEA ont fourni des informations sur les habitudes des clients, permettant une meilleure planification du personnel. Cela a réduit les coûts de main-d'œuvre de 10 % et amélioré la satisfaction des clients grâce à un service plus rapide.",
+                    "desc": "Lake View Tavern avait du mal à gérer le personnel aux heures de pointe. Les analyses d'PANACEAN ont fourni des informations sur les habitudes des clients, permettant une meilleure planification du personnel. Cela a réduit les coûts de main-d'œuvre de 10 % et amélioré la satisfaction des clients grâce à un service plus rapide.",
                     "position": ""
                 }
             ]
@@ -138,7 +138,7 @@
             "content": [
                 {
                     "title": "Atteindre de nouveaux clients",
-                    "description": "Inscrivez votre pharmacie sur PANACEA et entrez en contact avec des clients. Grâce aux options de livraison et de retrait, élargissez votre portée au-delà de votre emplacement."
+                    "description": "Inscrivez votre pharmacie sur PANACEAN et entrez en contact avec des clients. Grâce aux options de livraison et de retrait, élargissez votre portée au-delà de votre emplacement."
                 },
                 {
                     "title": "Réduire les coûts opérationnels",
@@ -146,7 +146,7 @@
                 },
                 {
                     "title": "Renforcer la confiance des patients",
-                    "description": "La fiabilité de chaque pharmacie sur PANACEA est vérifiée, ce qui permet aux utilisateurs d'avoir confiance dans leur parcours de santé."
+                    "description": "La fiabilité de chaque pharmacie sur PANACEAN est vérifiée, ce qui permet aux utilisateurs d'avoir confiance dans leur parcours de santé."
                 },
                 {
                     "title": "Optimiser grâce à la connaissance des données",
@@ -163,7 +163,7 @@
             "content": [
                 {
                     "title": "Uniquement des pharmacies certifiées",
-                    "description": "Chaque pharmacie sur PANACEA est vérifiée pour la qualité et la fiabilité, donnant aux clients la confiance dans les services qu'ils choisissent."
+                    "description": "Chaque pharmacie sur PANACEANN est vérifiée pour la qualité et la fiabilité, donnant aux clients la confiance dans les services qu'ils choisissent."
                 },
                 {
                     "title": "Informations transparentes sur les médicaments",
@@ -184,13 +184,13 @@
         "service": {
             "content": {
                 "title": "Votre expérience au bar, réinventée !",
-                "description": "Élevez votre expérience au bar avec PANACEA ! De l'optimisation des opérations à la création de connexions personnalisées, PANACEA vous aide à servir des sourires et à gagner du temps. Profitez de fonctionnalités comme le suivi des commandes en temps réel, les paiements instantanés et des informations client personnalisées. Dites adieu aux menus en papier et bonjour à des clients plus satisfaits, tout en augmentant la productivité et en stimulant la croissance. 🍹🚀"
+                "description": "Élevez votre expérience au bar avec PANACEAN ! De l'optimisation des opérations à la création de connexions personnalisées, PANACEAN vous aide à servir des sourires et à gagner du temps. Profitez de fonctionnalités comme le suivi des commandes en temps réel, les paiements instantanés et des informations client personnalisées. Dites adieu aux menus en papier et bonjour à des clients plus satisfaits, tout en augmentant la productivité et en stimulant la croissance. 🍹🚀"
             }
         },
         "testimonials": {
             "content": {
-                "title": "Histoires vraies, impact réel sur la santé - Découvrez la différence PANACEA",
-                "description": "Découvrez comment PANACEA redéfinit l'accès aux soins de santé en mettant les clients en contact avec des pharmacies et des cliniques fiables. Écoutez les témoignages d'utilisateurs qui apprécient la commodité, la confidentialité et la fiabilité que PANACEA apporte à leur parcours de santé, et voyez comment il aide les pharmacies à se développer dans le paysage numérique d'aujourd'hui."
+                "title": "Histoires vraies, impact réel sur la santé - Découvrez la différence PANACEAN",
+                "description": "Découvrez comment PANACEAN redéfinit l'accès aux soins de santé en mettant les clients en contact avec des pharmacies et des cliniques fiables. Écoutez les témoignages d'utilisateurs qui apprécient la commodité, la confidentialité et la fiabilité que PANACEAN apporte à leur parcours de santé, et voyez comment il aide les pharmacies à se développer dans le paysage numérique d'aujourd'hui."
             }
         }
     },
@@ -212,12 +212,12 @@
         "playstore": "Disponible sur le Playstore"
     },
     "privacyPolicy": {
-        "title": "Politique de confidentialité de PANACEA",
+        "title": "Politique de confidentialité de PANACEAN",
         "lastUpdated": "Dernière mise à jour : 5 septembre 2023",
         "sections": {
             "introduction": {
                 "heading": "Introduction",
-                "content": "Bienvenue chez PANACEA. Votre vie privée et la sécurité de vos données personnelles sont d'une importance capitale pour nous. Cette politique de confidentialité décrit nos pratiques concernant la collecte, l'utilisation et la protection de vos informations personnelles lorsque vous interagissez avec l'application mobile PANACEA."
+                "content": "Bienvenue chez PANACEAN. Votre vie privée et la sécurité de vos données personnelles sont d'une importance capitale pour nous. Cette politique de confidentialité décrit nos pratiques concernant la collecte, l'utilisation et la protection de vos informations personnelles lorsque vous interagissez avec l'application mobile PANACEAN."
             },
             "privacyPrinciples": {
                 "heading": "1. Principes de confidentialité",
@@ -237,7 +237,7 @@
                 "heading": "2. Collecte de données",
                 "content": [
                     {
-                        "item": "2.1. Lors de votre inscription sur PANACEA, nous pouvons collecter des identifiants personnels tels que votre nom, votre adresse email, votre numéro de téléphone, votre date de naissance et votre adresse résidentielle."
+                        "item": "2.1. Lors de votre inscription sur PANACEAN, nous pouvons collecter des identifiants personnels tels que votre nom, votre adresse email, votre numéro de téléphone, votre date de naissance et votre adresse résidentielle."
                     },
                     {
                         "item": "2.2. Pour certaines fonctionnalités spécifiques, nous pouvons avoir besoin d'informations financières, de détails de carte et de données spécifiques à l'appareil."
@@ -357,11 +357,11 @@
         }
     },
     "termsAndConditions": {
-        "title": "Conditions Générales d'Utilisation de PANACEA",
+        "title": "Conditions Générales d'Utilisation de PANACEAN",
         "sections": {
             "introduction": {
                 "heading": "1. Introduction",
-                "content": "Bienvenue sur PANACEA, une plateforme e-commerce multi-vendeurs. Ces Conditions Générales d'Utilisation régissent votre utilisation de l'application mobile et du site web d'PANACEA, ainsi que des services associés fournis par PANACEA."
+                "content": "Bienvenue sur PANACEAN, une plateforme e-commerce multi-vendeurs. Ces Conditions Générales d'Utilisation régissent votre utilisation de l'application mobile et du site web d'PANACEAN, ainsi que des services associés fournis par PANACEAN."
             },
             "acceptance": {
                 "heading": "2. Acceptation des Conditions",
@@ -370,15 +370,15 @@
             "vendorRegistration": {
                 "heading": "3. Inscription des Vendeurs et Obligations",
                 "content": [
-                    "Les vendeurs doivent s'inscrire pour lister leurs produits sur PANACEA.",
+                    "Les vendeurs doivent s'inscrire pour lister leurs produits sur PANACEAN.",
                     "Les vendeurs sont responsables de l'exactitude, de la légalité et de la qualité des produits qu'ils listent.",
-                    "PANACEA se réserve le droit de supprimer toute annonce de produit qui enfreint ces conditions ou les lois applicables."
+                    "PANACEAN se réserve le droit de supprimer toute annonce de produit qui enfreint ces conditions ou les lois applicables."
                 ]
             },
             "userAccounts": {
                 "heading": "4. Comptes Utilisateurs",
                 "content": [
-                    "Les utilisateurs doivent créer un compte pour effectuer des achats sur PANACEA.",
+                    "Les utilisateurs doivent créer un compte pour effectuer des achats sur PANACEAN.",
                     "Les informations du compte doivent être exactes et mises à jour régulièrement.",
                     "Les utilisateurs sont responsables de la confidentialité de leur compte et de leur mot de passe."
                 ]
@@ -386,57 +386,57 @@
             "transactions": {
                 "heading": "5. Transactions",
                 "content": [
-                    "PANACEA facilite les transactions entre utilisateurs et vendeurs, mais n'est pas partie à ces transactions.",
+                    "PANACEAN facilite les transactions entre utilisateurs et vendeurs, mais n'est pas partie à ces transactions.",
                     "Les utilisateurs sont responsables de lire l'intégralité de l'annonce avant de procéder à un achat."
                 ]
             },
             "paymentAndFees": {
                 "heading": "6. Paiements et Frais",
                 "content": [
-                    "PANACEA peut facturer des frais de transaction ou d'annonce.",
-                    "Les utilisateurs s'engagent à effectuer les transactions via les méthodes de paiement fournies sur PANACEA."
+                    "PANACEAN peut facturer des frais de transaction ou d'annonce.",
+                    "Les utilisateurs s'engagent à effectuer les transactions via les méthodes de paiement fournies sur PANACEAN."
                 ]
             },
             "deliveryAndShipping": {
                 "heading": "7. Livraison et Expédition",
                 "content": [
                     "Les vendeurs sont responsables de l'expédition de leurs produits.",
-                    "PANACEA n'est pas responsable des problèmes d'expédition, y compris les retards ou les articles perdus."
+                    "PANACEAN n'est pas responsable des problèmes d'expédition, y compris les retards ou les articles perdus."
                 ]
             },
             "returnsAndRefunds": {
                 "heading": "8. Retours et Remboursements",
                 "content": [
                     "La politique de retour et de remboursement de chaque produit est définie par le vendeur concerné.",
-                    "PANACEA facilite le processus de retour et de remboursement mais n'est pas responsable des politiques des vendeurs."
+                    "PANACEAN facilite le processus de retour et de remboursement mais n'est pas responsable des politiques des vendeurs."
                 ]
             },
             "intellectualProperty": {
                 "heading": "9. Propriété Intellectuelle",
-                "content": "Tous les droits de propriété intellectuelle relatifs à l'application et à son contenu sont détenus par PANACEA ou ses concédants."
+                "content": "Tous les droits de propriété intellectuelle relatifs à l'application et à son contenu sont détenus par PANACEAN ou ses concédants."
             },
             "userConduct": {
                 "heading": "10. Conduite de l'Utilisateur",
                 "content": [
                     "Les utilisateurs s'engagent à ne pas utiliser l'application pour toute activité illégale.",
-                    "Les utilisateurs ne doivent pas adopter de comportement susceptible de nuire à PANACEA ou aux autres utilisateurs."
+                    "Les utilisateurs ne doivent pas adopter de comportement susceptible de nuire à PANACEAN ou aux autres utilisateurs."
                 ]
             },
             "disclaimers": {
                 "heading": "11. Déclarations de Non-Responsabilité",
-                "content": "PANACEA fournit l'application et ses services « en l'état ». PANACEA ne garantit pas que l'application sera exempte d'erreurs ou d'interruptions."
+                "content": "PANACEAN fournit l'application et ses services « en l'état ». PANACEAN ne garantit pas que l'application sera exempte d'erreurs ou d'interruptions."
             },
             "limitationOfLiability": {
                 "heading": "12. Limitation de Responsabilité",
-                "content": "PANACEA ne sera pas responsable des dommages indirects, accessoires, spéciaux ou consécutifs découlant de l'utilisation de l'application."
+                "content": "PANACEAN ne sera pas responsable des dommages indirects, accessoires, spéciaux ou consécutifs découlant de l'utilisation de l'application."
             },
             "indemnification": {
                 "heading": "13. Indemnisation",
-                "content": "Les utilisateurs s'engagent à indemniser PANACEA contre toute responsabilité, coût, dépense, dommage et perte résultant de leur violation des présentes Conditions Générales d'Utilisation."
+                "content": "Les utilisateurs s'engagent à indemniser PANACEAN contre toute responsabilité, coût, dépense, dommage et perte résultant de leur violation des présentes Conditions Générales d'Utilisation."
             },
             "amendments": {
                 "heading": "14. Modifications",
-                "content": "PANACEA se réserve le droit de modifier ces Conditions Générales d'Utilisation à tout moment."
+                "content": "PANACEAN se réserve le droit de modifier ces Conditions Générales d'Utilisation à tout moment."
             },
             "governingLaw": {
                 "heading": "15. Droit Applicable et Juridiction",
@@ -449,7 +449,7 @@
         }
     },
     "modal": {
-        "title": "Télécharger PANACEA",
-        "text": "Scannez le code QR ci-dessous pour télécharger l'application PANACEA sur votre appareil mobile."
+        "title": "Télécharger PANACEAN",
+        "text": "Scannez le code QR ci-dessous pour télécharger l'application PANACEAN sur votre appareil mobile."
     }
 }

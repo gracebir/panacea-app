@@ -1,17 +1,17 @@
 {
     "title": {
-        "home": "Home | PANACEA",
-        "download": "Download App | PANACEA",
-        "terms": "Terms & Conditions | PANACEA",
-        "privacy": "Privacy & Policy | PANACEA",
-        "notFound": "Not Found | PANACEA"
+        "home": "Home | PANACEAN",
+        "download": "Download App | PANACEAN",
+        "terms": "Terms & Conditions | PANACEAN",
+        "privacy": "Privacy & Policy | PANACEAN",
+        "notFound": "Not Found | PANACEAN"
     },
     "header": {
         "action": "Get the App"
     },
     "hero": {
         "title": "Your Trusted Partner in Health. Locate, Order, and Receive Medications with Ease.",
-        "subtitle": "Discover the closest pharmacies and clinics, manage prescriptions digitally, and enjoy secure, convenient access to healthcare. PANACEA is your all-in-one platform, connecting you with trusted providers for a healthier, easier life.",
+        "subtitle": "Discover the closest pharmacies and clinics, manage prescriptions digitally, and enjoy secure, convenient access to healthcare. PANACEAN is your all-in-one platform, connecting you with trusted providers for a healthier, easier life.",
         "cta": {
             "apple": {
                 "text1": "Download on the",
@@ -25,15 +25,15 @@
     },
     "about": {
         "title": "Empowering Health Access, Together!",
-        "content": "PANACEA empowers users to access local pharmacies and clinics, making it simpler to find essential medications and manage health with privacy and convenience. With PANACEA, users can locate nearby pharmacies, confirm medication availability, order and pay digitally, and arrange for delivery. The platform also offers appointment booking with nearby clinics. PANACEA creates opportunities for pharmacies and clinics to serve more customers, enhance service quality, and operate seamlessly in today’s digital world.",
-        "cta": "Download PANACEA"
+        "content": "PANACEAN empowers users to access local pharmacies and clinics, making it simpler to find essential medications and manage health with privacy and convenience. With PANACEAN, users can locate nearby pharmacies, confirm medication availability, order and pay digitally, and arrange for delivery. The platform also offers appointment booking with nearby clinics. PANACEAN creates opportunities for pharmacies and clinics to serve more customers, enhance service quality, and operate seamlessly in today’s digital world.",
+        "cta": "Download PANACEAN"
     },
     "howItWorksSection": {
         "section1": {
-            "title": "Get Started with PANACEA – Your Health, Simplified! 🌍📲",
+            "title": "Get Started with PANACEAN – Your Health, Simplified! 🌍📲",
             "content": [
                 {
-                    "title": "Download the PANACEA App",
+                    "title": "Download the PANACEAN App",
                     "description": "Available on both iOS and Android platforms"
                 },
                 {
@@ -75,7 +75,7 @@
                 },
                 {
                     "title": "Elevate Your Service",
-                    "description": "Use PANACEA’s insights to grow your customer base and improve service delivery."
+                    "description": "Use PANACEAN’s insights to grow your customer base and improve service delivery."
                 }
             ]
         }
@@ -86,12 +86,12 @@
             "content": [
                 {
                     "names": "Mariam, the Discreet Shopper",
-                    "desc": "Mariam needed regular prescriptions but preferred not to make multiple trips. Now, with PANACEA, she orders everything she needs in one app, knowing her health needs are handled with privacy and care.",
+                    "desc": "Mariam needed regular prescriptions but preferred not to make multiple trips. Now, with PANACEAN, she orders everything she needs in one app, knowing her health needs are handled with privacy and care.",
                     "position": "ICUPA User"
                 },
                 {
                     "names": "Kofi, the Health-Conscious Professional",
-                    "desc": "With a busy schedule, Kofi found it hard to manage his medications. PANACEA’s delivery service means he can access his prescriptions anytime, and he can book checkups at nearby clinics when needed.",
+                    "desc": "With a busy schedule, Kofi found it hard to manage his medications. PANACEAN’s delivery service means he can access his prescriptions anytime, and he can book checkups at nearby clinics when needed.",
                     "position": "ICUPA User"
                 }
             ]
@@ -101,12 +101,12 @@
             "content": [
                 {
                     "names": "Unity Pharmacy: Expanding Digital Presence",
-                    "desc": "Unity Pharmacy struggled to attract new clients. With PANACEA, they now serve clients, offering delivery options that increase sales by 40%.",
+                    "desc": "Unity Pharmacy struggled to attract new clients. With PANACEAN, they now serve clients, offering delivery options that increase sales by 40%.",
                     "position": "Business Owner"
                 },
                 {
                     "names": "HealthSure Clinic: Reaching New Patients",
-                    "desc": "HealthSure Clinic faced competition from larger facilities. PANACEA allowed them to expand their client base, and their patient loyalty has since grown by 35%.",
+                    "desc": "HealthSure Clinic faced competition from larger facilities. PANACEAN allowed them to expand their client base, and their patient loyalty has since grown by 35%.",
                     "position": "Business Owner"
                 },
                 {
@@ -116,17 +116,17 @@
                 },
                 {
                     "names": "Riverview Bistro, Streamlined Cashless Payments",
-                    "desc": "Managing patients onboarding and payments was challenging for Prime Medics. Now, 90% of their transactions are digital with PANACEA, allowing for faster service and secure payment.",
+                    "desc": "Managing patients onboarding and payments was challenging for Prime Medics. Now, 90% of their transactions are digital with PANACEAN, allowing for faster service and secure payment.",
                     "position": "Business Owner"
                 },
                 {
                     "names": "TrustMeds: Easy Inventory Updates",
-                    "desc": "Keeping up with inventory was challenging for TrustMeds. With PANACEA’s digital platform, they update listings instantly, allowing clients to see real-time stock availability.",
+                    "desc": "Keeping up with inventory was challenging for TrustMeds. With PANACEAN’s digital platform, they update listings instantly, allowing clients to see real-time stock availability.",
                     "position": "Business Owner"
                 },
                 {
                     "names": "Hope Pharmacy: Staying Ahead with Data",
-                    "desc": "Hope Pharmacy faced peak-time shortages. PANACEA’s analytics helped them track demand patterns, reducing out-of-stock rates by 20%, improving customer satisfaction.",
+                    "desc": "Hope Pharmacy faced peak-time shortages. PANACEAN’s analytics helped them track demand patterns, reducing out-of-stock rates by 20%, improving customer satisfaction.",
                     "position": "Business Owner"
                 }
             ]
@@ -138,7 +138,7 @@
             "content": [
                 {
                     "title": "Reach New Clients",
-                    "description": "List your pharmacy on PANACEA and connect with customers. With delivery and pickup options, expand your reach beyond your location."
+                    "description": "List your pharmacy on PANACEAN and connect with customers. With delivery and pickup options, expand your reach beyond your location."
                 },
                 {
                     "title": "Reduce Operational Costs",
@@ -146,7 +146,7 @@
                 },
                 {
                     "title": "Build Patient Trust",
-                    "description": "Every pharmacy on PANACEA is verified for reliability, giving users confidence in their healthcare journey."
+                    "description": "Every pharmacy on PANACEAN is verified for reliability, giving users confidence in their healthcare journey."
                 },
                 {
                     "title": "Optimize with Data Insights",
@@ -163,7 +163,7 @@
             "content": [
                 {
                     "title": "Certified Pharmacies Only",
-                    "description": "Each pharmacy on PANACEA is verified for quality and reliability, giving clients confidence in the services they choose"
+                    "description": "Each pharmacy on PANACEAN is verified for quality and reliability, giving clients confidence in the services they choose"
                 },
                 {
                     "title": "Transparent Medication Information",
@@ -184,13 +184,13 @@
         "service": {
             "content": {
                 "title": "Your Bar Experience, Reimagined!",
-                "description": "Elevate your bar experience with PANACEA! From streamlining operations to creating personalized connections, PANACEA helps you serve smiles and save time. Enjoy features like real-time order tracking, instant payments, and tailored customer insights. Say goodbye to paper menus and hello to more satisfied customers, all while boosting productivity and driving growth. 🍹🚀"
+                "description": "Elevate your bar experience with PANACEAN! From streamlining operations to creating personalized connections, PANACEAN helps you serve smiles and save time. Enjoy features like real-time order tracking, instant payments, and tailored customer insights. Say goodbye to paper menus and hello to more satisfied customers, all while boosting productivity and driving growth. 🍹🚀"
             }
         },
         "testimonials": {
             "content": {
-                "title": "Real Stories, Real Health Impact – See the PANACEA Difference",
-                "description": "Discover how PANACEA is reshaping healthcare access, connecting customers with reliable pharmacies and clinics. Hear from users who appreciate the convenience, privacy, and reliability PANACEA brings to their healthcare journey, and see how it’s helping pharmacies grow in today’s digital landscape."
+                "title": "Real Stories, Real Health Impact – See the PANACEAN Difference",
+                "description": "Discover how PANACEAN is reshaping healthcare access, connecting customers with reliable pharmacies and clinics. Hear from users who appreciate the convenience, privacy, and reliability PANACEAN brings to their healthcare journey, and see how it’s helping pharmacies grow in today’s digital landscape."
             }
         }
     },
@@ -212,12 +212,12 @@
         "playstore": "Get on Playstore"
     },
     "privacyPolicy": {
-        "title": "PANACEA Privacy Policy",
+        "title": "PANACEAN Privacy Policy",
         "lastUpdated": "Last Updated: 5th September 2023",
         "sections": {
             "introduction": {
                 "heading": "Introduction",
-                "content": "Welcome to PANACEA. Your privacy and the security of your personal data are of utmost importance to us. This Privacy Policy outlines our practices regarding the collection, use, and protection of your personal information when you interact with the PANACEA mobile application."
+                "content": "Welcome to PANACEAN. Your privacy and the security of your personal data are of utmost importance to us. This Privacy Policy outlines our practices regarding the collection, use, and protection of your personal information when you interact with the PANACEAN mobile application."
             },
             "privacyPrinciples": {
                 "heading": "1. Privacy Principles",
@@ -237,7 +237,7 @@
                 "heading": "2. Data Collection",
                 "content": [
                     {
-                        "item": "2.1. Upon registering with PANACEA, we may collect personal identifiers such as your name, email, phone number, date of birth, and residential address."
+                        "item": "2.1. Upon registering with PANACEAN, we may collect personal identifiers such as your name, email, phone number, date of birth, and residential address."
                     },
                     {
                         "item": "2.2. For specific functionalities, we may require financial information, card details, and device-specific data."
@@ -359,11 +359,11 @@
         }
     },
     "termsAndConditions": {
-        "title": "Terms and Conditions for PANACEA",
+        "title": "Terms and Conditions for PANACEAN",
         "sections": {
             "introduction": {
                 "heading": "1. Introduction",
-                "content": "Welcome to PANACEA, a multi-vendor e-commerce platform. These Terms and Conditions govern your use of the PANACEA mobile application and website, and any related services provided by PANACEA."
+                "content": "Welcome to PANACEAN, a multi-vendor e-commerce platform. These Terms and Conditions govern your use of the PANACEAN mobile application and website, and any related services provided by PANACEAN."
             },
             "acceptance": {
                 "heading": "2. Acceptance of Terms",
@@ -372,15 +372,15 @@
             "vendorRegistration": {
                 "heading": "3. Vendor Registration and Obligations",
                 "content": [
-                    "Vendors must register to list their products on PANACEA.",
+                    "Vendors must register to list their products on PANACEAN.",
                     "Vendors are responsible for ensuring the accuracy, legality, and quality of their listed products.",
-                    "PANACEA reserves the right to remove any product listings that violate these terms or applicable laws."
+                    "PANACEAN reserves the right to remove any product listings that violate these terms or applicable laws."
                 ]
             },
             "userAccounts": {
                 "heading": "4. User Accounts",
                 "content": [
-                    "Users must register for an account to make purchases on PANACEA.",
+                    "Users must register for an account to make purchases on PANACEAN.",
                     "Account information must be accurate and updated regularly.",
                     "Users are responsible for maintaining the confidentiality of their account and password."
                 ]
@@ -388,57 +388,57 @@
             "transactions": {
                 "heading": "5. Transactions",
                 "content": [
-                    "PANACEA facilitates transactions between users and vendors but is not a party to these transactions.",
+                    "PANACEAN facilitates transactions between users and vendors but is not a party to these transactions.",
                     "Users are responsible for reading the full item listing before making a purchase."
                 ]
             },
             "paymentAndFees": {
                 "heading": "6. Payment and Fees",
                 "content": [
-                    "PANACEA may charge transaction or listing fees.",
-                    "Users agree to complete transactions through the payment methods provided on PANACEA."
+                    "PANACEAN may charge transaction or listing fees.",
+                    "Users agree to complete transactions through the payment methods provided on PANACEAN."
                 ]
             },
             "deliveryAndShipping": {
                 "heading": "7. Delivery and Shipping",
                 "content": [
                     "Vendors are responsible for shipping their products.",
-                    "PANACEA is not responsible for any shipping issues, including delays or lost items."
+                    "PANACEAN is not responsible for any shipping issues, including delays or lost items."
                 ]
             },
             "returnsAndRefunds": {
                 "heading": "8. Returns and Refunds",
                 "content": [
                     "The refund and return policy for each product is set by the respective vendor.",
-                    "PANACEA facilitates the return and refund process but is not responsible for vendors' policies."
+                    "PANACEAN facilitates the return and refund process but is not responsible for vendors' policies."
                 ]
             },
             "intellectualProperty": {
                 "heading": "9. Intellectual Property",
-                "content": "All intellectual property rights in the application and its content are owned by PANACEA or its licensors."
+                "content": "All intellectual property rights in the application and its content are owned by PANACEAN or its licensors."
             },
             "userConduct": {
                 "heading": "10. User Conduct",
                 "content": [
                     "Users agree not to use the application for any unlawful activity.",
-                    "Users must not engage in any behavior that could harm PANACEA or other users."
+                    "Users must not engage in any behavior that could harm PANACEAN or other users."
                 ]
             },
             "disclaimers": {
                 "heading": "11. Disclaimers",
-                "content": "PANACEA provides the application and its services on an 'as is' basis. PANACEA does not guarantee that the application will be free from errors or interruptions."
+                "content": "PANACEAN provides the application and its services on an 'as is' basis. PANACEAN does not guarantee that the application will be free from errors or interruptions."
             },
             "limitationOfLiability": {
                 "heading": "12. Limitation of Liability",
-                "content": "PANACEA will not be liable for any indirect, incidental, special, or consequential damages arising from the use of the application."
+                "content": "PANACEAN will not be liable for any indirect, incidental, special, or consequential damages arising from the use of the application."
             },
             "indemnification": {
                 "heading": "13. Indemnification",
-                "content": "Users agree to indemnify PANACEA against all liabilities, costs, expenses, damages, and losses arising out of their breach of these Terms and Conditions."
+                "content": "Users agree to indemnify PANACEAN against all liabilities, costs, expenses, damages, and losses arising out of their breach of these Terms and Conditions."
             },
             "amendments": {
                 "heading": "14. Amendments",
-                "content": "PANACEA reserves the right to amend these Terms and Conditions at any time."
+                "content": "PANACEAN reserves the right to amend these Terms and Conditions at any time."
             },
             "governingLaw": {
                 "heading": "15. Governing Law and Jurisdiction",
@@ -451,7 +451,7 @@
         }
     },
     "modal": {
-        "title": "Download PANACEA",
-        "text": "Scan the QR code below to download the PANACEA app on your mobile device."
+        "title": "Download PANACEAN",
+        "text": "Scan the QR code below to download the PANACEAN app on your mobile device."
     }
 }
