@@ -83,7 +83,7 @@ const Header: FC<{ isBgwhite?: boolean }> = ({ isBgwhite = false }) => {
             <nav className='max-w-6xl w-full px-6 flex justify-between lg:px-4 mx-auto'>
                 <Link to='/'>
                     <h3 className='text-xl lg:text-2xl font-extrabold text-yellow-400'>
-                        PANACEA
+                        PANACEAN
                     </h3>
                     {/* <img className='h-10' src={logo} alt='logo' /> */}
                 </Link>
