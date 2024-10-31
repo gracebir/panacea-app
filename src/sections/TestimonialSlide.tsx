@@ -113,7 +113,7 @@ export default function TestimonialSlide({
             <div className='grid grid-cols-1 lg:grid-cols-2'>
                 <div
                     className={`${
-                        isRevert ? "order-2" : "order-1"
+                        isRevert ? "lg:order-2 order-1" : "lg:order-1 order-2"
                     } py-5 max-h-[286px]`}
                 >
                     <div
@@ -132,7 +132,9 @@ export default function TestimonialSlide({
                     initial={{ opacity: 0 }}
                     animate={inView ? { opacity: 1 } : { opacity: 0 }}
                     transition={{ duration: 0.5 }}
-                    className={`${isRevert ? "order-1" : "order-1"}`}
+                    className={`${
+                        isRevert ? "lg:order-1 order-2" : "lg:order-1 order-2"
+                    }`}
                 >
                     <Slider ref={sliderRef} {...settings}>
                         {content.map((item, index) => (
